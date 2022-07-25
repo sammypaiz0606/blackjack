@@ -67,18 +67,23 @@ button {
     }
 
     #dealer-cards img {
-        width:80px;
-        height:100px;
+        width:70px;
+        height:80px;
         position: relative;
-        top:-20px;
+        top:-40px;
+    }
+    #you {
+        position: relative;
+        top:-50px;
     }
     #your-cards img {
-        width:80px;
-        height:100px;
+        width:70px;
+        height:80px;
     }
     #hit, #stay {
-        width:60px;
+        width:50px;
         height:30px;
         font-size:15px;
+        
     }
 }
