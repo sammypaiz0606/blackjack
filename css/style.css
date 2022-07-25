@@ -65,17 +65,20 @@ button {
     #backImg  img {
         height:640px;
     }
+
     #dealer-cards img {
-        width:100px;
-        height:120px;
+        width:80px;
+        height:100px;
+        position: relative;
+        top:-20px;
     }
     #your-cards img {
-        width:100px;
-        height:120px;
+        width:80px;
+        height:100px;
     }
     #hit, #stay {
         width:60px;
-        height:35px;
+        height:30px;
         font-size:15px;
     }
 }
