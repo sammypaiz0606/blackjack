@@ -52,7 +52,7 @@ button {
     top:-80px;
 }
 
-#hit, #stay {
+#hit, #stay, #game {
     width: 80px;
     height:40px;
     font-size: 20px;
@@ -80,7 +80,7 @@ button {
         width:70px;
         height:80px;
     }
-    #hit, #stay {
+    #hit, #stay, #game {
         width:50px;
         height:30px;
         font-size:15px;
